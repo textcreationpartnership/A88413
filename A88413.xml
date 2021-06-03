@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dr. Lockyer's vindication; and an infallible experimental confirmation of the vertues of his universal pill, by certain letters sent to him from Ireland and other parts, containing some eminent cures performed thereby.</title>
+            <author>Lockyer, Lionel, 1600?-1672.</author>
+         </titleStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88413</idno><idno type="EEBO-CITATION">43663305</idno>
+  <idno type="VID">172065</idno>
+  <idno type="EEBO-PROQUEST">2264174451</idno>
+  
+            <idno type="STC">Wing L2781E</idno>
+            <idno type="STC">ESTC R179998</idno>
+            <idno type="OCLC">43663305</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88413)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172065)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2612:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Dr. Lockyer's vindication; and an infallible experimental confirmation of the vertues of his universal pill, by certain letters sent to him from Ireland and other parts, containing some eminent cures performed thereby.</title>
+                  <author>Lockyer, Lionel, 1600?-1672.</author>
+               </titleStmt>
+               <extent>[31] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the Author, at S. Thomas's Southwark.</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>M. DC. LVIII [1658]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained and torn, with loss of text.</note>
+                  <note>"The second Impression with the addition of three Letters." -- p. [31]</note>
+                  <note>Reproduction of original in: Christ Church (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Patent medicines --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172065:1"/>
+            <pb facs="tcp:172065:1"/>
+            <p>D<seg rend="sup">r.</seg>
+               <hi>LOCKYER'S</hi> Vindication; AND An infallible experimental Confir<g ref="char:EOLhyphen"/>mation of the Vertues of his UNIVERSAL PILL, By certain LETTERS Sent to him from <hi>Ireland</hi> and other parts, containing some eminent <hi>CURES</hi> performed thereby.</p>
+            <q>
+               <p>Veniet tempus quo ista quae nunc latent, in lucem dies extrahet, &amp; longioris aevi diligentia.</p>
+               <bibl>
+                  <hi>Senec. Nat. Quaest.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for the <hi>Author,</hi> in <hi>S. Thomas</hi>'s <hi>Southwark.</hi> M.DC.LVIII.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:172065:2"/>
+            <pb facs="tcp:172065:2"/>
+            <head>To the Judicious (<hi>viz.</hi> the Indifferent) READER.</head>
+            <p>WHen I set my self to write about this <hi>Pill,</hi> I call to mind what the famous <hi>Roman</hi> Historian said, when he was about to Register the Acts of that Nation only, He could not describe them alone without introducing the affairs of all mankind; so when I am to treat of this single Medicine, I cannot speak of it as appro<g ref="char:EOLhyphen"/>priate to one particular part, and curing some one Distemper, but of its Universal Influence upon every part of this little World, the Body of Man. Were it not too troublesome a task for me, when I am so neer that period of life which the Psalmist sets for the Children of Men, I could pro<g ref="char:EOLhyphen"/>duce such numerous Experimental Cures performed by them alone, that would make some which are now no great friends and favourers of them, quit many Medicaments they now doat upon; and accept and use these only. And for your better encouragement take
+<pb facs="tcp:172065:3"/>notice of the ensuing Discourse, which be<g ref="char:EOLhyphen"/>ing du<gap reason="illegible: blotted" extent="2 letters">
+                  <desc>••</desc>
+               </gap> considered, your own reason may inform you, that you need not fear to give my <hi>Pill</hi> for any distemper whatsoever, to Infants or old Persons. It doth also evacu<g ref="char:EOLhyphen"/>ate, Corroborate, correct Putrefaction, open Obstructions, exhilarate the Spirits, and ex<g ref="char:EOLhyphen"/>cellent to chear the hearts of melancholy people; and what more is wanting, or need<g ref="char:EOLhyphen"/>ful for the Preservation and Restoration of Life and Health: and this I speak from my own experience. For, during the late dread<g ref="char:EOLhyphen"/>ful Mortality in the City of <hi>London,</hi> and Sub<g ref="char:EOLhyphen"/>urbs thereof, though I had opportunities and invitations to have left my habitation, and re<g ref="char:EOLhyphen"/>paired to the Country; yet would I not com<g ref="char:EOLhyphen"/>ply with them: but with a resignation of my self to Divine Providence, did abide all the while at my own house, and lodged not out of it one night, and remained uninfected my self, though my Men-servants and Maid<g ref="char:EOLhyphen"/>servants were all visited with the Plague, and I never declin'd to visit them, until such time as my Coach-man had the Small-pox together with the Plague, the smell of which was so strong and nauseous, that I could not away with it. Every one of them now are recovered to their perfect health,
+<pb facs="tcp:172065:3"/>and made use of no considerable Medicine except my <hi>Pill.</hi>
+            </p>
+            <p>I am not ignorant that there are many which have by several calumnies and false imputations endeavoured to disparage my <hi>Medicine,</hi> and thought by this cunning arti<g ref="char:EOLhyphen"/>fice to bring it into disuse; some because their own credit, as they suppose, is eclipsed by it, inasmuch as they can never attain to any such excellent thing, as the Providence of God, and his blessing upon my studies and labours hath favoured me with: some because their profit is abated by it, who would take a Fee, or make a Bill for a Pa<g ref="char:EOLhyphen"/>tient, but cannot, because they are hindred by my <hi>Pills;</hi> and that envy and interest should create me a world of adversaries is no wonder. But I would have such persons to consider, that such is the respect which I have for all practical and experimental Learning and Philosophy, that I can take notice of many of their excellent inventions with plea<g ref="char:EOLhyphen"/>sure and delight, and not be envious at those which can in any thing out-vie me, or at<g ref="char:EOLhyphen"/>tempt to derogate a tittle from their worthy actions; and therefore I have the more rea<g ref="char:EOLhyphen"/>son to expect that such which are not warp<g ref="char:EOLhyphen"/>ed by some private designs to a partial cen<g ref="char:EOLhyphen"/>sure,
+<pb facs="tcp:172065:4"/>but are of a candid and ingenuous tem per, will rather encourage others to, then deter them from the use of my <hi>Pills,</hi> which have obtained so much in the world by no other way then onely by the happy and bles<g ref="char:EOLhyphen"/>sed successes which have been consequent upon the taking of them. Let me not wholly complaine of the unkind and unworthy usage which I have received from some, without taking cognizance of that great honour that hath been done me by others, and those per<g ref="char:EOLhyphen"/>sonages as illustrious, honorable &amp; reverend as any the world can boast of; which by fre<g ref="char:EOLhyphen"/>quent experience of its comprehensive power and vertues, have given so laudable a testi<g ref="char:EOLhyphen"/>mony to it, as is more then sufficient to coun<g ref="char:EOLhyphen"/>ter-balance all those detractions which some obscure persons have been guilty of, on pur<g ref="char:EOLhyphen"/>pose for its defamation. Tis to me a strong in<g ref="char:EOLhyphen"/>ducement to believe, that nothing can be rationally and experimentally urged against the taking of my <hi>Pills</hi> by any persons what<g ref="char:EOLhyphen"/>soever, because none that have been styled rational Physicians have ever yet exposed any Arguments to the world against them; and if his censure of them be credible which pro<g ref="char:EOLhyphen"/>tested against me, they also are in the same condemnation, their whole Method being
+<pb facs="tcp:172065:4"/>contradicted by him, and openly reproached. Nor can the vertues of a Medicine confirmed by centuries of extraordinary Cures, many of which could not be effected by a tedious course of Physick, prescribed by learned and judicious Practitioners, be excepted justly against as defective, in a sufficient attestation to it from experience, though it is not very long since Heaven was pleased to crown my labours with so choice a Preparation.<note place="margin">About twelve years.</note> Nor am I at all startled to hear, that some which took my <hi>Pills</hi> are dead; for I did not promise to make men immortal by them; nor hath any person for ought I hear, that did ever use them, re<g ref="char:EOLhyphen"/>turn to their old Physick again, nor any mis<g ref="char:EOLhyphen"/>carried in the use of mine, whose want of due observation of that regiment and tem<g ref="char:EOLhyphen"/>perance which I prescribe, hath not occasi<g ref="char:EOLhyphen"/>on'd it. Nor do I wonder any more at the gripings which in some bodies happen upon the use of my <hi>Pills,</hi> then <hi>Galenists</hi> will at them which accompany their <hi>Senna, Agarick, Colo<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ynthis &amp; Diagridium, &amp;c.</hi> maugre their best correctives: And for ought I could ever learn from such which are throughly versed in their practice, have been attended often with such consequences, that not onely my
+<pb facs="tcp:172065:5"/>self but other Chymists may upon as good grounds decry their Cathartique Medicines, as they ours. I shall only mind them of what the <hi>Comoedian</hi> hath advised, <hi>Desinant maledi<g ref="char:EOLhyphen"/>cere, malefact a ne noscant sua.</hi>
+            </p>
+            <p>The manner of its operation is various; sometime it exerciseth it self principally in evacuation by siege, sometime it gives te<g ref="char:EOLhyphen"/>stimony its emetique virtue by fetching off the corruption from the stomach by vomit; somtime it shews forth its salivating nature by spitting; other times it manifests its diuretick quality by provoking urine; sometimes it displays its diaphoretique nature in procuring sweat: and sometime it doth insensibly insi<g ref="char:EOLhyphen"/>nuate it self into the mass of bloud, &amp; cleanse and purifie it, and becomes master of di<g ref="char:EOLhyphen"/>seases without any violent motions in the whole progress of the cure, and alwaies working that way which is most agreable to the nature of those which take it. Which I the rather take notice of, that none may be sur<g ref="char:EOLhyphen"/>prised with any of the said effects, or think the worse of my <hi>Pill,</hi> because it doth not work in just such a manner as they would have it, which an Universal Medicine, containing so many vertues, cannot be brought to, without a great impairing of its chiefest power. These
+<pb facs="tcp:172065:5"/>Letters which I here offer to your view, concerning the efficacy of my <hi>Pill,</hi> are only the gleanings of a full harvest. I have been also offered many more Testimonials, by such which have received benefit by them; and could, but that it is not necessary, publish many Sheets of my own Experiment: but I shall imitate Nature (in my publication, whom I have so closely followed in my Preparation) which is neither deficient in necessaries, nor abundant in superfluities, remembring that common maxim, <hi>frustra fit per plura, quod fie<g ref="char:EOLhyphen"/>ri potest per pauciora,</hi> That 'tis in vain to mul<g ref="char:EOLhyphen"/>tiply many Arguments to prove that which can be evidenced by few; you shall read them in their own words without any altera<g ref="char:EOLhyphen"/>tion. These Letters with many others I keep by me, to satisfie those which address them<g ref="char:EOLhyphen"/>selves to me with desire of satisfaction; and published these and no more for general in<g ref="char:EOLhyphen"/>formation. I need not make remarks upon any, except upon the first, and second, which refer to the clearing of a learned Divine in <hi>Ireland,</hi> from the calumnies &amp; forgeries of an unworthy <hi>Bock-seller,</hi> a factor for as impudent and mendacious a pretender to Chymistry. I do hereby manifest to the world, that the fore-mentioned Divine in <hi>Ireland</hi> never had any
+<pb facs="tcp:172065:6"/>of my <hi>Pills</hi> at an under-rate to make profit of them, nor never did propound to me any such thing, or is known to me to be any other then a generous and virtuous person, without such petty mercenary designs as have been charged on him.</p>
+            <p>By what hath and shall be written thou mayest easily perceive, That it is not from any desire of making my self or Medicine more publick, that I have premised this present Epistle to the ensuing Letters, or Printed them; but out of an hearty design of promo<g ref="char:EOLhyphen"/>ting the health of Mankind, by the use of that Medicine: for the want of which many have long laboured under great pains and tedious diseases, and could not be recovered until such times as they made use of this <hi>Universal Pill,</hi> which is onely prepared by me. When thou reapest the profit of my labours, travels and studies, give Glory to God that hath blest with so happy success the endeavours of his servant,</p>
+            <closer>
+               <signed>LIONEL LOCKYER.</signed>
+               <dateline>
+                  <hi>From my house in</hi> S. Thomas's <hi>in</hi> Southwark, <date>
+                     <hi>Jan.</hi> 13. 1665.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="letter">
+            <pb facs="tcp:172065:6"/>
+            <head>The First Letter.</head>
+            <opener>
+               <salute>Worthy Sir,</salute>
+            </opener>
+            <p>THere is lately printed in <hi>Dublin</hi> a scurrilous and virulent Pamphlet, wherein you, as prin<g ref="char:EOLhyphen"/>ciple, I, as accessary, are very much concerned, as will appear to you by perusal of the inclosed Copy, which I send unto you out of respect to your merit, and affection to the publike, that you may vindi<g ref="char:EOLhyphen"/>cate your self; and by the by to let the world know, that I make no trade of your excellent Pill, by buy<g ref="char:EOLhyphen"/>ing them at a cheap rate from you, and felling them here at a deare one: under which aspersion I lie merely upon this accompt, that I promote the cre<g ref="char:EOLhyphen"/>dit of the Pills, and vent them in great numbers. Wherfore I conceive that in point of honour you are obliged publickly to disown all such trading be<g ref="char:EOLhyphen"/>twixt us. You know best how to confute that made fellow, and in case you think fit, when you quit me from gaining by your Pills, let me advise you to de<g ref="char:EOLhyphen"/>clare unto the world, that it is not against the pro<g ref="char:EOLhyphen"/>fession of Divinity to be instrumental to the car<g ref="char:EOLhyphen"/>rying on of the great concern of the Common<g ref="char:EOLhyphen"/>wealth, by promoting rare inventions. I wish you much health and happiness, and rest,</p>
+            <closer>
+               <signed>Your affectionate friend, <hi>W. Hewson.</hi>
+               </signed>
+               <dateline>
+                  <hi>Dublin,</hi>
+                  <date>11 <hi>March,</hi> 1664.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div n="2" type="letter">
+            <pb facs="tcp:172065:7"/>
+            <head>The Second Letter.</head>
+            <opener>
+               <salute>Much Honoured Sir,</salute>
+            </opener>
+            <p>I Understand by Mr. <hi>Taylor</hi> that you are desirous to hear from me. I believe the cause is, that you may know what experience I have had here con<g ref="char:EOLhyphen"/>cerning the operation of your pills. To satisfie you in general, I have found their operation to be safe and admirable to remove such infirmities as other Physick cannot reach; more particularly I have ex<g ref="char:EOLhyphen"/>perience of their efficacy in mine own family, and very many others, sick of several and sore diseases. I my self have been sickly from my youth up, and have taken much Physick, but never any to be com<g ref="char:EOLhyphen"/>pared to them; for my infirmities increased and na<g ref="char:EOLhyphen"/>tural strength abated yearly, till I met with these excellent Pills. The first occasion of my taking them, was an extreme pain in my head, of long con<g ref="char:EOLhyphen"/>tinuance. I feared an Impostume; but after I made use of your Pills, I was soon freed from that pain, and also from divers other infirmities; my health and strength renewed to the admiration of all those that knew me formerly. I gave them to my younger daughter, sickly many years, we feared a Con<g ref="char:EOLhyphen"/>sumption; to mine eldest daughter, troubled with a Tumor in her ear, the pain so violent that we feared either immediate death or distraction, but through Gods blessing on your Pills they were soon rid of their infirmities. I gave them to my wife, much subject to the Palsy, and great benefit she finds by them. This good success in mine own family em<g ref="char:EOLhyphen"/>bolden'd
+<pb facs="tcp:172065:7"/>me to recommend them to many others who find them to be excellent in very many and great distempers and diseases, both acute and chro<g ref="char:EOLhyphen"/>nical, as continual Feavers, small Pox, Pluresie, Tertian Agues, fits of the Mother, Falling sickness, Convussion-fits, Stone, Strangury, in all which they proved very effectual; insomuch that they are ge<g ref="char:EOLhyphen"/>nerally admired by all, and desired by all in these parts, save only by Physicians and Apothecaries, who exclaim against them, and raise false reports concerning them, and bear me much ill will for promoting of them. Their main objection that they use against me, is, That I administer Physick, not knowing what materials it is made of. This is their main objection, which I am not able to an<g ref="char:EOLhyphen"/>swer, I wish I were, but secrets are not to be di<g ref="char:EOLhyphen"/>vulg'd. I must be content to know them by their ef<g ref="char:EOLhyphen"/>fects, which have been always good so far, as I have had experience of them; and I should have had far more if I could have procured them for mony: but we are at a great loss here for want of them. I would you had some one here that you might trust with your secret, or at least that you would provide store of them to be sent hither to be sold by some honest man at an easie rate; for there is great complaining for want of them: few that know them desire any other Physick. Yet I am sensible of one infirmity, which I do not believe that your Pills do reach, <hi>viz.</hi> a Rupture, which I have been long subject to, and increaseth with mine old age. I desire you to send me your opinion concerning it. If I thought that I might find a Remedy I would (if the Lord
+<pb facs="tcp:172065:8"/>spare me life) visit you at <hi>London</hi> the next Spring. I have many quaeries to put to you concerning the use of your Pills, I am desired to do so by persons of honour; as whether women with child may safely take them? which you have answered in your Book; what is to be done for removing the drought which commonly fellows them? what cordial is to be taken after them? and many other such like. But I know you desire not to be troubled with such questions. I fear I have been already too trouble<g ref="char:EOLhyphen"/>some unto you, and therefore shall forbear to write any more at this time: earnestly desiring the favour to have a line or two from you, whereby you shall very much engage</p>
+            <closer>
+               <signed>Your much obliged Friend and Servant, <hi>W. H.</hi>
+               </signed>
+               <dateline>Dublin, <date>Decem. 17. 1664.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div n="3" type="letter">
+            <head>The Third Letter.</head>
+            <opener>
+               <salute>Reverend Doctor,</salute>
+            </opener>
+            <p>IN the beginning of my use of your Pills, there came into the City of <hi>Dublin</hi> in <hi>Ireland</hi> pub<g ref="char:EOLhyphen"/>lished, a printed Book in derogation of your Pill, (as it is reported by an idle fellow) so that many (I may say most) that did use, and intended to make use of them, did quite leave the use of your Pills, he declaring that they were made of <hi>Anti<g ref="char:EOLhyphen"/>mony,</hi> and did kill many; yet having begun to make
+<pb facs="tcp:172065:8"/>use of them, I was not discouraged in the further use of them, because I had a confidence that what you your self writ was rather the truth: so that having some experience of the operation of them on several poor people in the country, and finding the effects good, I thought my self obliged to give you a relation of the effects</p>
+            <p>A servant of my own, <hi>Will. Matthews</hi> by name my Steward, who being abroad in my service, was ta<g ref="char:EOLhyphen"/>ken, seven miles from home, with a violent stitch in his side, so that being necessitated to ride a footpace, was not able to stand still nor speak, but groaned in most terrible manner with pain, judging it to be a Pluresie, and not having a Chyrurgeon near, gave him four of your Pills, which gave him so much ease that he fell asleep: and after one hours waking gave him a vomit, which eased him so much, that he rest<g ref="char:EOLhyphen"/>ed well all night, and the next day rose and was pretty well, but his side was extremely sore out<g ref="char:EOLhyphen"/>wardly, and black, so that I gave him more of them, which wrought upward and downward and he was well, and so continues. This was in <hi>January</hi> last.</p>
+            <p>A poor man having a daughter about twelve years of age, troubled five years with a very great belly and extreamly hard, which, during the time with Doctors and Chyrurgions, who applyed things outward and inward, yet did her no good; and bringing her unto me I gave her some of your Pills bruised in White-wine, which wrought most up<g ref="char:EOLhyphen"/>ward, and sometimes downward, and sometimes ope<g ref="char:EOLhyphen"/>rated no way visible, yet in a months time brought the bigness and hardness of her belly crown, so
+<pb facs="tcp:172065:9"/>that now being soft and small, she eats and sleeps well, which before she did not.</p>
+            <p>Another of my own servants about <hi>Christmas</hi> last became diseased with languishing sickness, a hollow Cough, loss of stomach, flesh and spirit, so that he could digest no sustenance, and was in ef<g ref="char:EOLhyphen"/>fect a dying man. I gave him some of your Pills, which before they operated made him so sick, that he thought he should have died; and about three hours after he vomited twise adust Melancholly and Choler: and making him some comfortable Broth he took it, and thought he should have thrown it up as formerly he did all that he took, but it staid with him. Being very weak, and the weather extreme frosty, I durst not give him of them often; yet when I thought convenient I gave him again and again, which wrought both ways with him: and most commonly what he voided upwards was a glutinous substance, much like the stuff that comes from an old Ulcer, of a most ugly colour and great quantity: but in the end, with the bles<g ref="char:EOLhyphen"/>sing of God in two months time he was able to ride, work, eat heartily.</p>
+            <p>Another of my servants on a <hi>Friday</hi> in <hi>January</hi> last was taken with an head-ach, and a pain in his left side; and all night both were so violent, that he was in an high Fever, his face very high coloured, and his pulse very great. I gave him three Pills, and about two hours after they gave him a vomit, which took much of his pain, his high colour and fever away, so that he rested well that night; and the next day I gave him more Pills, which did not visibly
+<pb facs="tcp:172065:9"/>operate; and though in a feaverish distemper all the day, the next day he was well, and so continues.</p>
+            <p>An old poor woman being troubled for two years with often faintings and swoonings, sometimes twice a day, sometimes once or twice in two or three days, was by your Pills cured, which brought up much water, choler and green stuff. <hi>Francis Barns</hi> Wife, a Tenant of mine, after her first sleep, being taken with violent stiches, especially in one side, and the next day, when having fits feaverish and hot, yet very cold in the feet, with the use of your Pills, and comfortable diet and tending, in a weeks time, though very weak, was recovered, and is now much on the mending hand.</p>
+            <p>I am at present administring them for other di<g ref="char:EOLhyphen"/>stempers, and, if you please, I shall after give you an account of the effects.</p>
+            <p>I have been my self troubled with the <hi>Hypocon<g ref="char:EOLhyphen"/>driach</hi> melancholy, and some times past the effects have been very tedious and bad; I have these three months past, once a week taken of your Pills, and find good by them, and trust, with the blessing of God upon them, to live more healthful and com<g ref="char:EOLhyphen"/>fortable than formerly. I thought the relation here<g ref="char:EOLhyphen"/>of would be acceptable unto you, which makes me presume to give you this trouble, because of the ma<g ref="char:EOLhyphen"/>ny various evil reports many give of your Pill, which have discouraged many. I having given you great trouble of a tedious Letter, I beg your pardon for it, and beg your acceptance with the favour of a return.</p>
+            <closer>I remain, <salute>Reverend Sir,</salute>
+               <signed>your friend, <hi>R.B.</hi>
+               </signed>
+               <dateline>
+                  <hi>Dunbuan</hi> neer <hi>Dublin,</hi>
+                  <date>the 14. of <hi>February,</hi> 1664.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div n="4" type="letter">
+            <pb facs="tcp:172065:10"/>
+            <head>The Fourth Letter.</head>
+            <opener>
+               <salute>Honoured Doctor,</salute>
+            </opener>
+            <p>HAving this opportunity, I thought to acquaint you with the effect of your Pills upon my self, in reference to my distemper, (which is the Stone both in the Reins and bladder) I have taken them at times near two years, and I will assure you I did never take them, but they did bring away stones, or sand, or both from me;</p>
+            <p>Except one time that I took them, for an extra<g ref="char:EOLhyphen"/>ordinary pain in one of my shoulders, which pain was so exceeding great, that I could not move my arm to put on my clothes, neither did I take any rest for two or three days and nights; then I took five Pills, (which is my asual dose) and I could not perceive them to work any where else about me but in my shoulder, where my pain lay, and they did quickly give me ease, and cured my shoulder. I seldom find any pain or heat in my back or reins if I take Pills I am sure to be well quickly. Not long since I was taken with a violent pain in my back, on the left side, where I used to be pained with the Stone, which continued from <hi>Munday</hi> noon till <hi>Thursday</hi> morning, all which time I was in much pain: the <hi>Thursday</hi> morning about five of the clock I took five Pills, which in less then two hours gave me much ease, and I did perceive the stones move down into my bladder, where they did cause much pain some days; then I voided one great stone, as big and of the same form of a small filberd
+<pb facs="tcp:172065:10"/>kernel, it was so big, that when I saw the top appear, I was forced to pluck it out with my fingers, and with it came many more less; that after-noon I voided above seven score, and the next two days about forty more, since which I have felt little pain.</p>
+            <p>Sir, I could write much more concerning your Pills what they have done in these parts for many diseases, but that I would not be too tedious to you, whom I know to be generally better imployed then to read such large Letters as this would prove to be.</p>
+            <p>Sir, I shall onely say this, that according to my knowledge they have done many people good, but did never know them do any one harm.</p>
+            <p>Sir, this is all at prefect from him that is</p>
+            <closer>
+               <signed>
+                  <hi>Your highly engaged friend,</hi> Johan Duncombe.</signed>
+               <dateline>
+                  <hi>Windover</hi>
+                  <date>
+                     <hi>June</hi> the 5. 1665.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div n="5" type="letter">
+            <head>The Fifth Letter.</head>
+            <opener>
+               <dateline>
+                  <hi>From</hi> Francis Drury, <hi>Cambridge</hi>
+                  <date>
+                     <hi>Nov.</hi> 7. 1665.</date>
+               </dateline>
+            </opener>
+            <p>THese few lines from <hi>John Richardson,</hi> Sir, here about and in <hi>Cambridge</hi> have been occa<g ref="char:EOLhyphen"/>sioned by the much good done by your Pills. A Minister that now useth of your Pills against a deep Consumption, told me he hath used the <hi>Antimony Cup</hi> a long time, and found much good, but now will use onely your Pills, he finds them far exceed
+<pb facs="tcp:172065:11"/>it. Another in a neighbouring Town hath told me, that through Gods goodness he using your Pills is recovered out of a lingring and wasting disease, the Physicians having given him over, and he doth be<g ref="char:EOLhyphen"/>lieve would have brought him to the grave long ere now. And others that have been at Baths, and used many means, do find your Pills the best for them.</p>
+         </div>
+         <div n="6" type="letter">
+            <head>The Sixth Letter.</head>
+            <opener>
+               <salute>Noble Doctor,</salute>
+            </opener>
+            <p>I Have (with some small intermissions) taken your Pills these fifteen months, the necessity of my disease forcing me to make a full experiment of them. When I began to take them, I may truly say I was <hi>deploratus à Medicis,</hi> having suffered much from divers learned and worthy men, without any success, besides the increasing of my prison-diseases, which were, <hi>Scurvy, Dropsie, Wind-Gout,</hi> (the last the worst and most tormenting.) These complext and contrary diseases I laboured under for three years in my prison, in which, what was administred against the one, brought and in<g ref="char:EOLhyphen"/>creased the other upon me. Sir, I intend not to trouble you with any large discourse, I know it would be tedious, onely in thankfulness to God, from whose influence and blessing alone depends the efficacy of every creature, and in due acknow<g ref="char:EOLhyphen"/>ledgments to you, I think fit to let you know, that by the blessing of God upon your Pills I am (so far
+<pb facs="tcp:172065:11"/>as I know) prefectly cured of the <hi>Dropsie</hi> and <hi>Scur<g ref="char:EOLhyphen"/>vy,</hi> (when I began to take them my teeth were rea<g ref="char:EOLhyphen"/>dy to fall out, and my gums festered like a gall'd-horse back, and I was swell'd from head to foot.) And as for my other tormenting disease, (the <hi>Wind-Gout</hi>) though I cannot say I am perfectly cured of it, yet I bless God it is so mitigated, that it's tole<g ref="char:EOLhyphen"/>rable, and though it doth return upon me, yet hold<g ref="char:EOLhyphen"/>ing on in taking your Pills, they always prevail against it, (though with great struglings) and it grows less and less. The manner of working of these Pills is so various, that I believe none can pro<g ref="char:EOLhyphen"/>mise how they will work three times together; sometimes by Vomit, sometimes by Stool, some<g ref="char:EOLhyphen"/>times by both, sometimes by neither, but most con<g ref="char:EOLhyphen"/>stantly by spitting, and ever concluding with the old wives remedy for the <hi>Winde.</hi> The truth is, Their operation is as if they were rational rather then na<g ref="char:EOLhyphen"/>tural Agents, what they find at present most, an<g ref="char:EOLhyphen"/>noying or threatning nature, that they fall upon, by affording and applying to nature a succour and a vertue against it. Sir, God has put a great honour upon you, in making you the instrument of bringing forth this rare Medicament into the world, for the good of Mankind, the like to which I do not think has been since the world began. Sir, I am bound to subscribe my self</p>
+            <closer>
+               <signed>Your very thankful and obliged friend and servant, <hi>J D.</hi>
+               </signed>
+               <dateline>Tower <date>1. of May. 1665.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div n="7" type="letter">
+            <pb facs="tcp:172065:12"/>
+            <head>The Seventh Letter.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>I Shall here declare what the goodness of God hath done for me by the means of your Pills. I had some nine or ten years ago taken, by means of my employment at that time, exceeding violent Colds one after another, which did occasion a wind and a water to gather in my flesh, at sometimes to such a pain, that I had no rest night nor day, but was so torn, that I could not contain my self from crying out many times, in much bitterness, yet no swel<g ref="char:EOLhyphen"/>ling, nor any thing to be seen. I was so lame that sometimes I have been taken off from my employ<g ref="char:EOLhyphen"/>ment six weeks, sometimes eight weeks, nay, some<g ref="char:EOLhyphen"/>times more then ten or eleven weeks together. Then it pleased the Lord I heard of your Pills, and took the quantity of four or five boxes of them, by which means I doubt not but there is perfect Cure wrought upon me, besides some other inferior di<g ref="char:EOLhyphen"/>stempers quite removed; so that now, through mer<g ref="char:EOLhyphen"/>cy, I am in very good health. I desire to give God the glory, and you thanks. So I rest,</p>
+            <closer>
+               <signed>
+                  <hi>Thy friend in love,</hi> Will. Pryer.</signed>
+               <dateline>
+                  <hi>From</hi> Martin<hi>'s lane in</hi> Colchester. <date>April 10. 1665.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div n="8" type="letter">
+            <pb facs="tcp:172065:12"/>
+            <head>The Eighth Letter.</head>
+            <opener>
+               <dateline>London, <date>
+                     <hi>the</hi> 14 <hi>of</hi> June, 1665.</date>
+               </dateline>
+               <salute>Sir,</salute>
+            </opener>
+            <p>HAving had experience of the incomparable vertue of your famous Pills, have thought good in gratitude to give you an account of the benefits I have received by them. About <hi>August</hi> last, by the persuasion of some friends, seeing me in a every sad and deplorable condition, having then been under the Doctors and Chirurgeons hands nigh twelve months for the cure of a <hi>Fistulo in ana,</hi> but found no help from them, but rather after much torture de<g ref="char:EOLhyphen"/>spair in my self ever to be recovered, did procure a box of your Pills, which did, to my admiration, with<g ref="char:EOLhyphen"/>in three weeks that I made use of them, take away the pain and cause of the distemper, so that I was able to go healthfully about my occasions, and in <hi>November</hi> last rid on horse-back three or four hundred miles; since, thanks be unto Almighty God, I have continued in very good health. I do in<g ref="char:EOLhyphen"/>tend shortly to give you a visit, and shall declare more unto you; in the interim I remain,</p>
+            <closer>
+               <signed>Your faithful friend and servant. Nich. Hudleston.</signed>
+            </closer>
+            <postscript>
+               <pb facs="tcp:172065:13"/>
+               <head>POSTSCRIPT.</head>
+               <p>I Shall not omit to acquaint you with a strange Cure was done by your Pills. I being at my Brothers in <hi>Lincoln shire,</hi> his wife lay bed-rid and had so done for some months, the night before I came thither her neighbours did not expect she would live till the next morning; about a month or two before she had her thighs and legs lanch'd and cut for the Dropsie she having been diseased six or seven years, and could get no cure: hearing some discourse of your Pills, desired me to give her half a score of them, which I did, and she making use of them, recovered so, that within a fortnight I had a Letter from my Brother for a Box of your Pills, with an account, that his Wife was then able to go about the house</p>
+               <closer>
+                  <signed>Jd. N.H.</signed>
+                  <dateline>
+                     <hi>From the</hi> Three Horse shoes <hi>near St.</hi> Dunstan's hill.</dateline>
+               </closer>
+            </postscript>
+         </div>
+         <div n="9" type="letter">
+            <head>The Ninth Letter.</head>
+            <opener>
+               <salute>Friend,</salute>
+            </opener>
+            <p>I Have sent thee the mans own declaration of what thy Pill hath done for him, he is an honest man, and hath spoke nothing but the truth: and as for my self, I was so lame with a pain in my huckle<g ref="char:EOLhyphen"/>bone for three years, that I went in much pain with a staff, and with sore legs for twelve years, so that I
+<pb facs="tcp:172065:13"/>was in such misery that I could not rest night nor day: and when I came up to thee first, I could not get on a shoe on one foot; and it broke out of my hips with a salt rheume that I could not sit nor lie down, but in such misery, that when I rose up from the place I either sate or lay down on, I thought my flesh would have come from my bones: but by the goodness of God upon thy Pill, I am now in perfect bodily health, and in my limbs. Under my affliction formerly I could not go from my house a quarter of a mile without resting three or four times, now I came from <hi>London</hi> in less then a day and a half. My Wife remembers her kind love to thee.</p>
+            <closer>
+               <signed>
+                  <hi>Thy loving friend,</hi> Joseph Reeve.</signed>
+               <dateline>
+                  <hi>From</hi> Colchester <date>
+                     <hi>the</hi> 10 <hi>day of the second, month.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div n="10" type="letter">
+            <head>The Tenth Letter.</head>
+            <opener>
+               <salute>My honoured worthy Friend,</salute>
+            </opener>
+            <p>My first to you, like the blind mans Arrow, got me that which in twelve years time, hath for the present, freed me of such a distemper and disease, being the Scurvy and Dropsie, that all my Doctors skill, with much cost and pains could not do, far beyond what I can express in Paper; ever blessed be his Name that taught it you, and you also for your love in sending me one Box and Book, for which I now send you only four shillings. Somewhat else I intend is not yet ready well to be sent you. I had sent to you sooner, but thought my son should have been with you
+<pb facs="tcp:172065:14"/>this Term, forbore till now this happy opportunity of taking it you by the hand of this our friend, who if imployed to dispose of your Pills; for you here might do infinite good if you send another Box, and if he doth not pay you, it shall certainly be well re<g ref="char:EOLhyphen"/>quited when my son comes to you, from your ever</p>
+            <closer>
+               <signed>
+                  <hi>Thankful Friend and Servant</hi> John Lockyer.</signed>
+               <dateline>
+                  <hi>Ilchester,</hi> Septemb. <date>the 24. 1666.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>I had forgot a Dispute I had lately concerning your Pill, with a person professing skill in Physick, who in our Discourse, he thought, as he said, something in it above Nature, as he and others judged by the effects it hath here wrought upon several persons.</p>
+               <closer>
+                  <signed>
+                     <hi>God give you long life and happiness is the Prayer of Yours</hi> J.L.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <div n="11" type="letter">
+            <head>The Eleventh Letter.</head>
+            <opener>
+               <salute>Honoured Doctor,</salute>
+            </opener>
+            <p>THe good affection I bear to you upon the Repute of your Pills, I am obliged to give you a demonstration of the names of some persons which they have done perfect Cures on, and have also inserted the place of their Resi<g ref="char:EOLhyphen"/>dence, as followeth, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>1. <hi>Thomas Readshey</hi> living at <hi>Standley</hi> in the
+<pb facs="tcp:172065:14"/>County of <hi>Durham,</hi> dangerously ill in a shaking Ague, was perfectly cured.</item>
+               <item>2. <hi>Margaret Farlese</hi> living at <hi>Hedley-hope,</hi> ex<g ref="char:EOLhyphen"/>tremely ill at her Stomack, in a very short time, was perfectly cured, and many Worms cast up in her Vomit.</item>
+               <item>3. Mr. <hi>Wasey</hi>'s Daughter of <hi>Newlands,</hi> extreme<g ref="char:EOLhyphen"/>ly ill of a Feaver, was by these Pills cured.</item>
+               <item>4. <hi>William Wrane</hi> living at <hi>Billirow,</hi> dangerously ill, and his body brought extreme weak by bad Digestion and Melancholy, was with half a Box perfectly cured.</item>
+               <item>5 <hi>George Barley</hi> living at <hi>Lowraw,</hi> a distemper came upon him so violently by drinking cold wa<g ref="char:EOLhyphen"/>ter when he was extreme hot with working, as no body thought he could live, with half a Box was perfectly cured.</item>
+               <item>6. <hi>Henry Marchall,</hi> near threescore and ten years of age, living at <hi>Standley</hi> being extremely troubled with a Tumor in his leg many years, with taking half a Box was perfectly cured.</item>
+               <item>7. Mr. <hi>Robert Fresell</hi> living in <hi>Durham,</hi> having such a pain in his Bowels, as the Physicians gave him over, was by these Pills perfectly cured.</item>
+               <item>8. <hi>Jane Hedley</hi> living at <hi>Hedley</hi>-Hill, dangerously ill of a Feaver, with a dozen Pills was perfectly cured.</item>
+               <item>9. <hi>John Arrowssmith</hi>'s two Children living at <hi>Cornsey,</hi> were both perfectly cured, the one of the Rickets, and the other of a lameness in his Joynts, which had made him a Cripple some years.</item>
+               <item>10. <hi>Luke Harle</hi> living in <hi>New-Castle,</hi> having been
+<pb facs="tcp:172065:15"/>long and grievously troubled with a <hi>Fistula,</hi> though much helped by other means, yet was never per<g ref="char:EOLhyphen"/>fectly cured until he took Doctor <hi>Lockyer</hi>'s Pills, which took away the very cause of his Distemper, and so is perfectly cured.</item>
+               <item>11. Mr. <hi>Anthony Lorraine</hi> of <hi>Walker,</hi> very sore perplexed with a violent Head-ach, with taking half a Box of these Pills was cured.</item>
+            </list>
+            <p>There are many which have been almost cured, and have found aboundance of good by them, but I shall name none of them; and this I can only say, I have heard of none that ever yet got harm by them.</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>Your humble Servant <hi>Charles Sanderson.</hi>
+               </signed>
+               <dateline>
+                  <hi>From</hi> Hedley-hope <date>Jan. 13. 1667.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div n="12" type="letter">
+            <head>The Twelth Letter.</head>
+            <opener>
+               <salute>Loving Doctor,</salute>
+            </opener>
+            <p>I Having heard the false reports concerning thy Pills in rendring them of no value, I did judge it my duty to declare my experience of them. I was very much troubled with the Spleen thirty years and better; and in the time of my Child<g ref="char:EOLhyphen"/>hood my Parents did use all the means for my recovery both private and publick: but I could have no cure till by Gods Providence I came to take of Doctor <hi>Lockyer</hi>'s Pills, by which Pills, through the blessing of God, I have received my
+<pb facs="tcp:172065:15"/>perfect, cure and have not been in pain this eighf years; and this I testifie for the satisfaction ot those who scruple the vertue of them.</p>
+            <closer>
+               <signed>
+                  <hi>Thy loving Friend</hi> Arthur Fisher.</signed>
+               <dateline>Southwark, <date>
+                     <hi>the</hi> 26. <hi>of the</hi> 5<seg rend="sup">th</seg>
+                     <hi>month called</hi> July, 1668.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div n="1" type="warning_against_counterfeit_pills">
+            <head>The First Advertisement.</head>
+            <p>I Have in my other Book (now in Print) given the World to understand that I have been, and still am abused by some base persons in coun<g ref="char:EOLhyphen"/>terfeiting my Pills, which to prevent, be careful to buy Pills of no person whose names are not in my Book; for if I am truly informed that any person whom I have favoured to put his Name in my Book, shall dare to take any counterfeit Pills, and sell them instead of mine, they shall never sell any more for me. By the present fraudulent pretences and practices of some unworthy and dis<g ref="char:EOLhyphen"/>honest persons, I am fore-warned that after my Decease, that many may be apt to start up and give out to the World that they can make my Pills; therefore that no Pretender may abuse any which have a desire to take these Pills which are truly mine, nor any remain doubtful which are the true ones, I do by this <hi>manifes<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o</hi> declare that I have freely and faithfully discovered the Receipt of them, with the exact process or way of preparing and impregnating the same, unto Mr. <hi>Thomas Fydge</hi>
+               <pb facs="tcp:172065:16"/>an Apothecary at the sign of the Sugar Loaf in <hi>Bi<g ref="char:EOLhyphen"/>shopsgate-street</hi> near the <hi>Spittle,</hi> whom alone I in<g ref="char:EOLhyphen"/>trust and appoint to make and sell them after my decease, if he survive; and that none may be deceived with any counterfeits in lieu of mine, all the Boxes then disposed of shall be sealed not only with my own Coat of Arms, but also with the Arms of the said Mr. <hi>Thomas Fydge, viz.</hi> six Flower-de-luces and three Spur-rowels.</p>
+         </div>
+         <div n="2" type="warning_against_counterfeit_pills">
+            <head>The Second Advertisement that you may not be cheated.</head>
+            <p>AS for Mr. <hi>Robert Horne,</hi> in the first Court entring out of <hi>Bishopsgate-street</hi> into <hi>Gresham</hi> Colledge, or now the <hi>Exchange,</hi> Book-seller, I here own to the World that he sells my Pills by my order; but for one <hi>Rookes</hi> in the same place, to pretend that he hath any Pills from me it is false.</p>
+         </div>
+         <div type="conclusion">
+            <p>Now for a Conclusion of this Book it high<g ref="char:EOLhyphen"/>ly restoreth the Radical moisture, cleanseth and strengtheneth the Spermatick Vessels, in<g ref="char:EOLhyphen"/>creaseth and animateth the Seed in both Sex<g ref="char:EOLhyphen"/>es fortifieth the Womb, preserveth the <hi>Em<g ref="char:EOLhyphen"/>brio,</hi> strengtheneth the Child, and preventeth miscarriage, restoreth the lost delight of Na<g ref="char:EOLhyphen"/>ture; and absolutely cureth all Barrenness cure-able by Medicine. It is also an Antidote against all contagious Airs and infectious Diseases, and perfectly resisteth all foulness and infection in the act of Generation, it mundifieth and cleanseth the skin, restoreth and increaseth Beauty, maketh
+<pb facs="tcp:172065:16"/>old Age comely and beautiful, and the Counte<g ref="char:EOLhyphen"/>nance of all to be chearful and sanguine.</p>
+            <p>These things I thought my self bound in Con<g ref="char:EOLhyphen"/>science to publish for the common good, that I might not by my silence be the cause that any who may and would be helped, should be like unto <hi>Hagar,</hi> who was near unto perishing when means was hard by her, <hi>Gen.</hi> 21.19.</p>
+            <closer>
+               <signed>
+                  <hi>By me</hi> LIONELL LOCKYER.</signed>
+               <dateline>
+                  <hi>From my House in St.</hi> Thomas <hi>in</hi> Southwark, <hi>over against the</hi> Meal-market, <hi>at the sign of the three Bores-heads,</hi>
+                  <date>Aug. <hi>the</hi> 20<seg rend="sup">th</seg> 1668.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="appeal_for_further_testimonials">
+            <head>Advertised.</head>
+            <p>
+               <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as much as my Friend Mr. <hi>Thomas Fydge</hi>
+               <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>hecary, at the Sugar-loaf in <hi>Bishopsgate-street,</hi> intendeth to publish many memorable Cures per<g ref="char:EOLhyphen"/>formed by my Pills, It is desired that such persons which are acquainted with any extraordinary Cures done by them, would be pleased to commu<g ref="char:EOLhyphen"/>nicate the same unto him, that he may be furnish<g ref="char:EOLhyphen"/>ed with Instances of all kinds to compleat the said Work, which will be sufficient to give all men sa<g ref="char:EOLhyphen"/>tisfaction concerning their Universal Nature.</p>
+         </div>
+         <div type="edition_statement">
+            <p>
+               <hi>The second Impression with the addition of three Let<g ref="char:EOLhyphen"/>ters.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:172065:17"/>
+            <pb facs="tcp:172065:18"/>
+         </div>
+      </body>
+   </text>
+</TEI>
